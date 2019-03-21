@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="gray_blue">#FF1D6E98</color>
+    <color name="purple">#FF4081</color>
+    <color name="water_blue">#FF26C3FD</color>
+    <color name="translucent">#00ffffff</color>
+</resources>
